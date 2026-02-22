@@ -1,0 +1,1 @@
+import{aq as o}from"./C4psxivV.js";const c=()=>{const e=(s,r)=>{o(s,{autoClose:1500,position:o.POSITION.TOP_RIGHT,type:r==="success"?o.TYPE.SUCCESS:o.TYPE.ERROR,transition:o.TRANSITIONS.SLIDE})};return{success:s=>e(s,"success"),error:s=>e(s,"error")}};export{c as u};

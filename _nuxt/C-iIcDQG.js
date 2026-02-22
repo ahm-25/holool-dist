@@ -1,0 +1,1 @@
+import{aE as o,K as a,G as n,R as s}from"./c72oGId3.js";const l=o((i,r)=>{const t=a(),e=n();if(!t.isLoggedIn)return console.log("Auth Middleware: User not logged in. Redirecting to /auth/login..."),s(e("/auth/login"))});export{l as default};
