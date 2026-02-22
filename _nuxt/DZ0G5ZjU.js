@@ -1,1 +1,0 @@
-import{b$ as o,bB as a,c0 as r}from"./C4psxivV.js";function b(){r({variableName:a("scrollbar.width").name})}function c(){o({variableName:a("scrollbar.width").name})}export{b,c as u};

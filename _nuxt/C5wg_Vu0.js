@@ -1,1 +1,0 @@
-import{ar as o}from"./lgLlP2OD.js";const c=()=>{const r=(s,e)=>{o(s,{autoClose:1500,position:o.POSITION.TOP_RIGHT,type:e==="success"?o.TYPE.SUCCESS:o.TYPE.ERROR,transition:o.TRANSITIONS.SLIDE})};return{success:s=>r(s,"success"),error:s=>r(s,"error")}};export{c as u};

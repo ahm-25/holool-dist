@@ -1,1 +1,0 @@
-import{_ as s,o as t,c as a,aF as r}from"./DxUUb53P.js";const c={},n={class:"min-h-screen radial-gradient-bg"};function o(e,_){return t(),a("div",n,[r(e.$slots,"default")])}const l=s(c,[["render",o]]);export{l as default};

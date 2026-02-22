@@ -1,1 +1,0 @@
-import{_ as s,c as t,o as a,aB as r}from"./c72oGId3.js";const c={},n={class:"min-h-screen radial-gradient-bg"};function o(e,_){return a(),t("div",n,[r(e.$slots,"default")])}const l=s(c,[["render",o]]);export{l as default};
